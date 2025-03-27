@@ -7,7 +7,7 @@ This Python script provides an autoclicker functionality primarily designed for 
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-    - [All Users](for-all-users)
+    - [All Users](https://github.com/trouvaiilx/renpy-clicker?tab=readme-ov-file#for-all-users)
     - [Linux (Virtual Enviroment is Recommended)](for-linux-users-recommended-use-a-virtual-environment)
 - [Alternative Way to Run on Linux](#alternative-way-to-run-on-linux)
 - [Usage](#usage)
