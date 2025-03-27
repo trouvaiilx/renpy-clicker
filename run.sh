@@ -1,7 +1,7 @@
 #!/bin/bash
 VENV_PATH="$HOME/venv"
 PYTHON="$VENV_PATH/bin/python"
-SCRIPT_PATH="$(dirname "$0")/clicker.py"
+SCRIPT_PATH="$(dirname "$0")/shift_clicker.py"
 
 if [ ! -f "$PYTHON" ]; then
     echo "Error: Python interpreter not found in $PYTHON"
